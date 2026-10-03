@@ -1,5 +1,7 @@
 # Install Tetragon on a workload
 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=chandrapati.tetragon-workload-install&left_text=visitors)
+
 Install [Tetragon](https://tetragon.io) and the `tetra` CLI **on the workload itself**: a Linux VM, a bare-metal host, or any amd64 Linux host where you want the agent. This is the package install that runs `install.sh` and starts the `tetragon` service. It is not the Kubernetes Helm install.
 
 **Install script by Leonardo Milher.** These commands are his. They are written so they can be added to a Cisco Secure Workload host install script.
